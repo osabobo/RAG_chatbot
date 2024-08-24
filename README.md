@@ -1,19 +1,4 @@
-<p align="center">
-  <a href="http://www.theunwindai.com">
-    <img src="docs/banner/unwind.png" width="600px" alt="Unwind AI">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shubhamsaboo/">
-    <img src="https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/Saboo_Shubham_">
-    <img src="https://img.shields.io/twitter/follow/Shubham_Saboo" alt="Twitter">
-  </a>
-</p>
-
-<hr/>
+>
 
 # 🌟 Awesome LLM Apps
 A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and even open-source models like LLaMA that you can run locally on your computer.
@@ -118,11 +103,4 @@ Chat with a Substack newsletter using OpenAI's API and the Embedchain library in
 
 4. Follow the project-specific instructions in each project's README.md file to set up and run the app.
 
-## 🤝 Contributing to Opensource
-Contributions are welcome! If you have any ideas, improvements, or new apps to add, please create a new [GitHub Issue](https://github.com/Shubhamsaboo/awesome-llm-apps/issues) or submit a pull request. Make sure to follow the existing project structure and include a detailed README.md for each new app.
 
-### Thank you community for the support 🙏
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Shubhamsaboo/awesome-llm-apps&type=Date)](https://star-history.com/#Shubhamsaboo/awesome-llm-apps&Date)
-
-🌟 **Don’t miss out on future updates! Star the repo now and be the first to know about new and exciting LLM applications with RAG.**
